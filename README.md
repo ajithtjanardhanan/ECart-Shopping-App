@@ -1,6 +1,6 @@
 # ecartshoppingapp
 
-A new Flutter project.
+Shopping App Flutter project.
 
 ## Getting Started
 
