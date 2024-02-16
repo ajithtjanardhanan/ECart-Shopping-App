@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "980611706313",
+    "project_id": "ecart-shoppingapp",
+    "storage_bucket": "ecart-shoppingapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980611706313:android:8b92d5bc0d883e83134c18",
+        "android_client_info": {
+          "package_name": "com.Ecart.ecartshoppingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp0BB1i3TxFqOkxcNNHuZsVnzcD2XIEdI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
